@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: Add frequency propery to MediaModule
+author: Jongeun Lee
+license: Specify your license
+copyright: Copyright (c) 2013 by Your Company
+
+
+# these should not be edited
+name: FrequencyModule
+moduleid: codejong.freq
+guid: 2d068ecd-8bca-4976-bcd1-a6d51bc86171
+platform: iphone
+minsdk: 3.1.1.GA
